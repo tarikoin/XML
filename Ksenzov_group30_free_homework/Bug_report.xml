@@ -1,1 +1,19 @@
-
+<?xml version = "1.0">
+<REPORT>
+  <TITLE>Поле количества единиц товара в корзине допускает ввод нечисловых значений</TITLE>
+  <ID>WB-0001</ID>
+  <ENVIRONMENT>Google Chrome Версия 100.0.4896.127 (Официальная сборка), (64 бит)</ENVIRONMENT>
+  <PRIORITY>Medium</PRIORITY>
+  <REPORTED_BY>Anna</REPORTED_BY>
+  <REPORTED_ON>2022/06/18</REPORTED_ON>
+  <TYPE>Bug</TYPE>
+  <STATUS>New</STATUS>
+  <DESCRIPTION>Поле количества единиц товара в корзине допускает ввод нечисловых значений и оформление заказа с этими значениями"</DESCRIPTION>
+  <STEPS>
+    <STEP1>1. Добавить товар в корзину (например: https://www.wildberries.ru/catalog/23018620/detail.aspx?targetUrl=XS)</STEP1> 
+    <STEP2>2. Перейти в корзину</STEP2>
+    <STEP3>3. В поле количества единиц товара ввести любое нечисловое значение (например: ФФ)"</STEP3>
+  </STEPS>
+  <EXPECTED_RESULT>Нечисловое значение не вводится в поле количества товара либо появляется сообщение об ошибке</EXPECTED_RESULT>
+  <ACTUAL_RESULT>Нечисловое значение вводится и сохраняется в поле количества товара</ACTUAL_RESULT>
+</REPORT>
