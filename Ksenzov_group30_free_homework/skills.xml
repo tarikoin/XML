@@ -1,16 +1,16 @@
 <SKILLS>
-	<SKILL[F>[B[C[C[C[C[C[C[C[C[C[C[C[C[C[F[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C1>Base theory</SKILL1>
+	<SKILL1>Base theory</SKILL1>
 	<SKILL2>Client Server Architecture<SKILL2>
 	<SKILL3>HTTP</SKILL3>
 	<SKILL4>JSON, XML</SKILL4>
 	<SKILL5>API, Postman</SKILL5>
 	<SKILL6>Charles, Fiddler</SKILL6>
 	<SKILL7>Dev Tools</SKILL7>
-	<Skill8>VPN<[D[D[DKILL[A[B8[C[C[C[C[C[C[D/SKILL8>
+	<Skill8>VPN</SKILL8>
 	<SKILL9>Mobile Testing</SKILL9>
 	<SKILL10>bash, terminal</SKILL10>
 	<SKILL11>SQL</SKILL11>
-	<SKILL[A[C[C[C[C[C[C, Postgres</SKILL11>[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D12>Redis</SKILL12>
+	<SKILL12>Redis</SKILL12>
 	<SKILL13>JMeter</SKILL13>
-	<SKILL14>Scrum</SKILL14>[A[A[A[A[A[A[A[A[A[A[A[A[A[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[<[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[D[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+	<SKILL14>Scrum</SKILL14>
 </SKILLS>
